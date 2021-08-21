@@ -1,4 +1,6 @@
-# stopwatch
+# Simple stopwatch
+
+- [DEMO LINK](https://nkgrand.github.io/stopwatch/)
 
 ## The selftask
 Create a working stopwatch with minute and second hands using only CSS animations.
